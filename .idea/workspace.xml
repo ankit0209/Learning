@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ad5136f1-3ea1-466e-b657-9e68d09d001b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learning.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/META-INF/Learning.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/com/project/Questions" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/com/project/StringSearch.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/com/project/arrays/ArraySearch.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/com/project/arrays/ArraySorting.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/com/project/arrays/ArraySum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/com/project/arrays/BubbleSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/com/project/arrays/TestBubbleSearch.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/com/project/datastructure/Linklist$Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/com/project/datastructure/Linklist.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/com/project/java8/FlatMapExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/com/project/java8/Interface1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/com/project/java8/Interface2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/com/project/java8/MapExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/com/project/java8/MapQuestions.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/com/project/java8/MapQuestions2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/com/project/java8/Myclass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/com/project/java8/OptionalClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/com/project/java8/StreamExampl1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/com/project/java8/StreamExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/com/project/java8/StreamList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/com/project/java8/bean/Employee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/com/project/java8/bean/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/com/project/java8/bean/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/com/project/java8/excm$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/com/project/java8/excm$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/com/project/java8/excm.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/com/project/java8/optionalExample2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/com/project/learn/ArraySpecial.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/com/project/learn/ArrayWithZero.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/com/project/learn/DateParser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/com/project/learn/Engine.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/com/project/learn/Example.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/com/project/learn/Example1$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/com/project/learn/Example1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/com/project/learn/FirstClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/com/project/learn/ImmutableExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/com/project/learn/Pair.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/com/project/learn/StreamBasicExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/com/project/learn/Testing.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/com/project/learn/Testing1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/com/project/learn/Testing2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/com/project/learn/TreeSetExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/com/project/multithreading/ExecutorExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/com/project/multithreading/ExecutorMain.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/com/project/multithreading/Mythread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/com/project/multithreading/TestClass$Printer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/com/project/multithreading/TestClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/com/project/multithreading/ThreadQuestion$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/com/project/multithreading/ThreadQuestion$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/com/project/multithreading/ThreadQuestion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/com/project/problems/Question" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/com/project/problems/Question1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/com/project/problems/Question2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/project/Questions" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ePMvFKo4p3dGfViSd4w1cxlmfj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="D:/Github" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunManager" selected="Application.Question2">
+    <configuration name="Question1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.project.problems.Question1" />
+      <module name="Learning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.project.problems.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Question2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.project.problems.Question2" />
+      <module name="Learning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.project.problems.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.project.StringSearch" />
+      <module name="Learning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.project.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Testing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.project.learn.Testing" />
+      <module name="Learning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.project.learn.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Testing1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.project.learn.Testing1" />
+      <module name="Learning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.project.learn.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Question2" />
+        <item itemvalue="Application.StringSearch" />
+        <item itemvalue="Application.Question1" />
+        <item itemvalue="Application.Testing1" />
+        <item itemvalue="Application.Testing" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ad5136f1-3ea1-466e-b657-9e68d09d001b" name="Default Changelist" comment="" />
+      <created>1594219004038</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594219004038</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="526" y="214" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1624030472639">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="526" y="214" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1624030472639" />
+    <state x="574" y="96" key="#com.intellij.ide.util.MemberChooser" timestamp="1623694032556">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="96" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1623694032556" />
+    <state x="524" y="115" key="#xdebugger.evaluate" timestamp="1624111923798">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="524" y="115" key="#xdebugger.evaluate/0.0.1536.824@0.0.1536.824" timestamp="1624111923798" />
+    <state width="388" height="466" key="DebuggerActiveHint" timestamp="1623518825171">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="388" height="466" key="DebuggerActiveHint/0.0.1536.824@0.0.1536.824" timestamp="1623518825171" />
+    <state x="577" y="167" key="FileChooserDialogImpl" timestamp="1624380647036">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="577" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1624380647036" />
+    <state width="1493" height="261" key="GridCell.Tab.0.bottom" timestamp="1624113487456">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1624113487456" />
+    <state width="1493" height="261" key="GridCell.Tab.0.center" timestamp="1624113487456">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1624113487456" />
+    <state width="1493" height="261" key="GridCell.Tab.0.left" timestamp="1624113487455">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1624113487455" />
+    <state width="1493" height="261" key="GridCell.Tab.0.right" timestamp="1624113487456">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1624113487456" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1624113487456">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1624113487456" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1624113487456">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1624113487456" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1624113487456">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1624113487456" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1624113487456">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1624113487456" />
+    <state x="277" y="0" key="SettingsEditor" timestamp="1623169387791">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1623169387791" />
+    <state x="478" y="0" width="633" height="824" key="find.popup" timestamp="1624109917078">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="478" y="0" width="633" height="824" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1624109917078" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1623692219643">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1623692219643" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/project/java8/optionalExample2.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/project/StringSearch.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/project/StringSearch.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/project/problems/Question2.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/project/StringSearch.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
